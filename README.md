@@ -1,8 +1,8 @@
 # Grocery_App
 
-We are going to create a grocery delivery app. This app is supposed to work similar to Checkers sixty60.
-Since this is our first app, the only requirement is that we produce an app better than Checkers sixty60. So,
-I suggest exploring the Checkers sixty60 app.
+We are going to create a grocery app. This app will take products from different stores, compare their prices, and displace the cheapest. It should also show the customer the nearest store they can go to buy the product. We need to also consider checking the quality of the product e.g. their expiration date. 
+
+Note: I'll keep on adding more requirements as time goes on.
 
 ## Programming Tools
 Android Studio
